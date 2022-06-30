@@ -1,3 +1,7 @@
-### Hi there 👋
+### Hi there, Fuad here!!!👋
+Cancel changes
+**My Interest**
+•	Android Mobile App Development
+•	Flutter App Development
+•	UI/UX Design
 
-**Mfuadshidqi/Mfuadshidqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

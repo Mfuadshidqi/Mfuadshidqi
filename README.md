@@ -2,9 +2,8 @@
 
 **My Interest**
 
-•	Android Mobile App Development
-
-•	Flutter App Development
+•	Android Mobile App Development (Kotlin & Flutter)
 
 •	UI/UX Design
 
+•	IoT
